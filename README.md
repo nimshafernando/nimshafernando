@@ -17,7 +17,7 @@
 
 - 🌱 **Learning:** MERN Stack  
 - 🎓 **Software Engineering** student, Year 2  
-- 💬 **Ask Me About:** **Java**, **Python**, **Web Dev**  
+- 💬 **Ask Me About:** **Java**, **Python** 
 - 📫 **Contact:** **nimsha.fernando@gmail.com**  
 - ⚡ **Fun Fact:** I love solving puzzles 🧩
 
