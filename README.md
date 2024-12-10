@@ -13,10 +13,6 @@
 <tr border="none">
 <td width="60%" align="left" style="vertical-align: top;">
 
-<table align="center">
-<tr border="none">
-<td width="60%" align="left" style="vertical-align: top;">
-
 <h3 align="left">🌟 About Me:</h3>
 
 - 🌱 **Learning:** MERN Stack  
@@ -31,7 +27,6 @@
 </td>
 </tr>
 </table>
-
 
 
 
@@ -69,7 +64,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack:</h3>
+<h3 align="center">🛠 Tech Stack:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -103,7 +98,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/JIRA-%2300056B.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
   <img src="https://img.shields.io/badge/ClickUp-%233B2F6E.svg?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -111,8 +106,8 @@
 </p>
 
 ---
+
 <h3 align="center">💡 Quote of the Day:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&text=The%20secret%20of%20getting%20ahead%20is%20getting%20started.%20-%20Mark%20Twain" alt="Quote of the Day">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
-
