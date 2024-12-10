@@ -15,13 +15,11 @@
 
 <h3 align="left">🌟 About Me:</h3>
 
-- 🌱 **Currently Exploring:** The exciting world of **MERN Stack Development**.  
-- 🎓 **Education:** A passionate second-year **Software Engineering** undergraduate.  
-- 💬 **Ask Me About:**  
-  &nbsp;&nbsp;&nbsp;☑️ Object-Oriented Programming with **Java** and **Python**.  
-  &nbsp;&nbsp;&nbsp;☑️ Crafting dynamic user experiences with **Web Development**.  
-- 📫 **How to Reach Me:** Drop a line at **nimsha.fernando@gmail.com** anytime!  
-- ⚡ **Fun Fact:** I find joy in solving puzzles 🧩 and creating robust solutions.  
+🌱 I’m currently learning **MERN**  
+🎓 I’m a second-year undergraduate in Software Engineering.  
+💬 Ask me about **Java, Python, and Web Development**  
+📫 How to reach me: **nimsha.fernando@gmail.com**  
+⚡ Fun fact: **I love solving puzzles and building robust solutions**
 
 </td>
 <td width="40%" align="center" style="vertical-align: middle;">
