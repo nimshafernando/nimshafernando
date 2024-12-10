@@ -10,8 +10,8 @@
 ---
 
 🌐 **Socials:**  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nimshafernando)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nimshafernando)  
 
 ---
 
@@ -35,13 +35,13 @@
 ---
 
 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimshafernando&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimshafernando&layout=compact&theme=radical)  
 
 ---
 
 🏆 **GitHub Trophies:**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nimshafernando&theme=radical)  
 
 ---
 
@@ -51,4 +51,4 @@
 ---
 
 🔝 **Top Contributed Repo:**  
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=1&theme=radical)  
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=nimshafernando&limit=1&theme=radical)  
