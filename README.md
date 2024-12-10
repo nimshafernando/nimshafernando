@@ -16,7 +16,7 @@
 <h3 align="left">🌟 About Me:</h3>
 
 - 🌱 **Learning:** MERN Stack  
-- 🎓 **Software Engineering** student, Year 2  
+- 🎓 **Software Engineering** student, Year 3  
 - 📫 **Email:** **nimsha.fernando@gmail.com**  
 - ⚡ **Fun Fact:** Anime Buff & Football Fan
 
