@@ -18,7 +18,7 @@
 - 🌱 **Learning:** MERN Stack  
 - 🎓 **Software Engineering** student, Year 2  
 - 📫 **Email:** **nimsha.fernando@gmail.com**  
-- ⚡ **Fun Fact:** Anime & Football superfan
+- ⚡ **Fun Fact:** Anime Buff & Football Fan
 
 </td>
 <td width="40%" align="center" style="vertical-align: middle;">
