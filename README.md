@@ -1,73 +1,75 @@
-# 🌟 Welcome to My GitHub!
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
+<h1 align="center">Hi 👋, I'm Nimsha Fernando</h1>
+<h3 align="center">Passionate Software Engineering Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nimshafernando&label=Profile%20views&color=0e75b6&style=flat" alt="nimshafernando" /> 
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=450&lines=Hello+World!+I'm+Nimsha;Aspiring+Software+Engineer;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
-</div>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
+- 🎓 I’m a second-year undergraduate in Software Engineering.
+- 💬 Ask me about **Java, Python, and Web Development**
+- 📫 How to reach me: **nimsha.fernando@gmail.com**
+- ⚡ Fun fact: **I love solving puzzles and building robust solutions**
 
----
+</td>
+<td width="50%" align="center">
 
-## 🧑‍💻 About Me
-- 🌟 **Final-year Software Engineering Undergrad** passionate about creating innovative solutions.
-- 🌍 Exploring **full-stack development**, **AI**, and **cloud technologies**.
-- 🛠️ Skilled at solving complex problems with creative coding.
-- 🌱 Continuously improving by experimenting with new tools and frameworks.
-- 🎯 Aiming to contribute to impactful projects that make a difference.
-- ⚡ When I’m not coding, you’ll find me gaming, exploring nature, or blogging about tech.
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
----
-
-
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://instagram.com/nimshafernando">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/nimsha-fernando">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@nimsha.fernando">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nimshafernando&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img title="🔥 Streak stats for your profile" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nimshafernando&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nimshafernando&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimshafernando&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nimshafernando&theme=radical" alt="GitHub Streak Stats" width="48%">
-</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/nimshafernando/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://instagram.com/nimshafernando" target="_blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" /></a>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimshafernando&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter.svg" alt="Flutter" width="50" height="50"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="PHP" width="50" height="50"/></a>
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
-
----
-
-## 🎉 Fun Fact
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Fun Fact">
-</div>
+<h3 align="center">Support:</h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/nimshafernando"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
+</p>
