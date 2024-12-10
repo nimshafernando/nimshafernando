@@ -15,18 +15,21 @@
 
 <h3 align="left">🌟 About Me:</h3>
 
-🌱 I’m currently learning **MERN**  
-🎓 I’m a second-year undergraduate in Software Engineering.  
-💬 Ask me about **Java, Python, and Web Development**  
-📫 How to reach me: **nimsha.fernando@gmail.com**  
-⚡ Fun fact: **I love solving puzzles and building robust solutions**
+- 🌱 **Currently Learning:** The **MERN Stack**.  
+- 🎓 **Education:** Second-year **Software Engineering** undergraduate.  
+- 💬 **Ask Me About:**  
+  &nbsp;&nbsp;&nbsp;☑️ **Java**, **Python**, and **Web Development**.  
+- 📫 **Reach Me At:** **nimsha.fernando@gmail.com**  
+- ⚡ **Fun Fact:** I love puzzles 🧩 and building efficient solutions.
 
 </td>
 <td width="40%" align="center" style="vertical-align: middle;">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Coding GIF" width="350px" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Coding GIF" width="500px" style="border-radius: 10px;" />
 </td>
 </tr>
 </table>
+
+
 
 
 
