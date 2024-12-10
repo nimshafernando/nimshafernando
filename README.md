@@ -89,10 +89,26 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 </p>
 
-
 ---
 
+<h3 align="center">⚙️ Tools & Platforms:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server Management Studio" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JIRA-%2300056B.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
+  <img src="https://img.shields.io/badge/ClickUp-%233B2F6E.svg?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Confluence-%230A75B7.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+</p>
+
+---
 <h3 align="center">💡 Quote of the Day:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&text=The%20secret%20of%20getting%20ahead%20is%20getting%20started.%20-%20Mark%20Twain" alt="Quote of the Day">
 </p>
+
