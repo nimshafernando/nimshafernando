@@ -18,43 +18,44 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="250px" />
+  
 </td>
 </tr>
 </table>
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">📊 My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nimshafernando&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nimshafernando&theme=radical&show_icons=true&count_private=true" />
   <br><br>
-  <img title="🔥 Streak stats for your profile" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nimshafernando&theme=dark&hide_border=false" /> 
+  <img title="🔥 Streak stats for your profile" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nimshafernando&theme=radical&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nimshafernando&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nimshafernando&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
 </td>
 </tr>
 </table>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/nimshafernando/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
-<a href="https://instagram.com/nimshafernando" target="_blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" /></a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/nimsha-fernando/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://instagram.com/nim._.sha" target="_blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" /></a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50"/></a>
@@ -65,11 +66,4 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/></a>
 <a href="https://flutter.dev/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter.svg" alt="Flutter" width="50" height="50"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="PHP" width="50" height="50"/></a>
-</p>
-
----
-
-<h3 align="center">Support:</h3>
-<p align="center">
-<a href="https://www.buymeacoffee.com/nimshafernando"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
 </p>
