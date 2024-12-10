@@ -13,14 +13,17 @@
 <tr border="none">
 <td width="60%" align="left" style="vertical-align: top;">
 
+<table align="center">
+<tr border="none">
+<td width="60%" align="left" style="vertical-align: top;">
+
 <h3 align="left">🌟 About Me:</h3>
 
-- 🌱 **Currently Learning:** The **MERN Stack**.  
-- 🎓 **Education:** Second-year **Software Engineering** undergraduate.  
-- 💬 **Ask Me About:**  
-  &nbsp;&nbsp;&nbsp;☑️ **Java**, **Python**, and **Web Development**.  
-- 📫 **Reach Me At:** **nimsha.fernando@gmail.com**  
-- ⚡ **Fun Fact:** I love puzzles 🧩 and building efficient solutions.
+- 🌱 **Learning:** MERN Stack  
+- 🎓 **Software Engineering** student, Year 2  
+- 💬 **Ask Me About:** **Java**, **Python**, **Web Dev**  
+- 📫 **Contact:** **nimsha.fernando@gmail.com**  
+- ⚡ **Fun Fact:** I love solving puzzles 🧩
 
 </td>
 <td width="40%" align="center" style="vertical-align: middle;">
@@ -28,6 +31,7 @@
 </td>
 </tr>
 </table>
+
 
 
 
