@@ -39,9 +39,10 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nimshafernando&theme=radical&show_icons=true&count_private=true" />
-  <br><br>
-  <img title="🔥 Streak stats for your profile"  src="https://github-readme-streak-stats.herokuapp.com/?user=nimshafernando&theme=radical&hide_border=false" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimshafernando&theme=radical&show_icons=true&count_private=true" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimshafernando&theme=radical&hide_border=false" />
+ 
 </td>
 <td width="50%" align="center">
 
