@@ -33,25 +33,23 @@
 
 ---
 
+---
+
 <h3 align="center">📊 My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimshafernando&theme=radical&show_icons=true&count_private=true" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimshafernando&theme=radical&hide_border=false" />
- 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nimshafernando&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nimshafernando&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nimshafernando&theme=radical&layout=compact&hide_border=false&langs_count=10" alt="Top Languages" />
 </td>
 </tr>
 </table>
 </p>
+
+---
 
 ---
 
